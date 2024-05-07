@@ -1,0 +1,17 @@
+sb(21)
+c
+cb('server.js', 21)
+breakpoints
+watch('counter')
+watch('counter > 2')
+c
+r
+watch('counter')
+watch('counter > 2')
+c
+r
+list(100)
+sb(19)
+c
+c
+c

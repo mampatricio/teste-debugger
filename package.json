@@ -1,0 +1,8 @@
+{
+  "name": "teste-debugger",
+  "version": "1.0.0",
+  "description": "Testar debugger",
+  "main": "server.js",
+  "author": "Marcos Patricio",
+  "license": "MIT"
+}
